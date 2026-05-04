@@ -134,11 +134,6 @@ The system uses **ESP-NOW wireless communication** for low-latency real-time con
 
 ---
 
-## 🎥 Demo Video
-(Add your YouTube / Google Drive demo link here)
-
----
-
 ## 📌 Future Improvements
 - Add wheel speed encoder for closed-loop speed control
 - Add GPS tracking module
@@ -148,7 +143,7 @@ The system uses **ESP-NOW wireless communication** for low-latency real-time con
 ---
 
 ## 👤 Author
-**Name:** (Your Name)  
+**Name:** (Lovedeep singh)  
 **Country:** India  
 **Domain:** Embedded Systems / IoT / Automotive Electronics  
 
