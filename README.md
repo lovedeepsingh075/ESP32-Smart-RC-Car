@@ -120,7 +120,6 @@ The system uses **ESP-NOW wireless communication** for low-latency real-time con
 - Open `Transmitter/Transmitter.ino`
 - Update receiver MAC address in code
 - Upload to ESP32 transmitter board
-
 ### Step 2: Upload Receiver Code
 - Open `Receiver/Receiver.ino`
 - Upload to ESP32 receiver board
@@ -141,6 +140,9 @@ The system uses **ESP-NOW wireless communication** for low-latency real-time con
 - Add obstacle avoidance sensors
 
 ---
+## 🎥 Demo Video
+Watch the full working demo here:  
+https://youtu.be/TG9Nv4OkgiA?si=lrO-c_nyJyxs16DQ
 
 ## 👤 Author
 **Name:** (Lovedeep singh)  
