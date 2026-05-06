@@ -142,7 +142,7 @@ The system uses **ESP-NOW wireless communication** for low-latency real-time con
 ---
 ## 🎥 Demo Video
 Watch the full working demo here:  
-https://youtu.be/TG9Nv4OkgiA?si=lrO-c_nyJyxs16DQ
+https://youtu.be/Kl_gogzyiPI?si=lvmTH1cyn-LJM6R7
 
 ## 👤 Author
 **Name:** (Lovedeep singh)  
